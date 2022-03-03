@@ -10,6 +10,6 @@ jobs:
         uses: elgohr/Publish-Docker-Github-Action@master
         with:
           # 下方的name格式为：Docker Hub ID/fds1
-          name: dfghrcvb/fds1
-          username: '${{ secrets.DOCKER_USERNAME }}'
-          password: '${{ secrets.DOCKER_PASSWORD }}'
+          name: ming1123/fds1
+          username: '${{ secrets.ming1123 }}'
+          password: '${{ secrets.Qaz@12345 }}'
